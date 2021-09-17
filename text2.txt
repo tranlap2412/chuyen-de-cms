@@ -1,2 +1,3 @@
 123
-Tôi cũng đã sửa file 
+Tôi cũng đã sửa file
+Sửa cho conflict 
